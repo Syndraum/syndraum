@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm [Romain](https://roalvare.dev/)</a>
 
-#### French Full stack developer and software engineer, from Paris.
+#### French full-stack developer and software engineer from Paris.
 
 - 🎓 Currently learning [Go](https://go.dev/learn/), it's great!
 - 🐳 Working on an x64/x86 emulator supervisor for Apple Silicon
